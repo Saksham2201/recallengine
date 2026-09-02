@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# venv
+venv/
+.venv/
+env/
+
+# env / secrets
+.env
+*.env.local
+
+# vector store / local data
+*.db
+*.sqlite3
+chroma_db/
+faiss_index/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# notebooks checkpoints
+.ipynb_checkpoints/
