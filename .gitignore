@@ -9,6 +9,7 @@ __pycache__/
 venv/
 .venv/
 env/
+/recallengine/
 
 # env / secrets
 .env
@@ -19,6 +20,7 @@ env/
 *.sqlite3
 chroma_db/
 faiss_index/
+/Documents/
 
 # OS/editor
 .DS_Store
