@@ -9,7 +9,6 @@ __pycache__/
 venv/
 .venv/
 env/
-/recallengine/
 
 # env / secrets
 .env
@@ -21,6 +20,7 @@ env/
 chroma_db/
 faiss_index/
 /Documents/
+chroma_langchain_db
 
 # OS/editor
 .DS_Store
